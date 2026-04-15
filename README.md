@@ -47,10 +47,10 @@ Data disimpan di storage instance dengan key:
 ## 📸 Bukti Deploy & Testing
 
 ### Bukti 1
-![Bukti 1](bukti1.jpg)
+![Bukti 1](IMG20260415121835.jpg)
 
 ### Bukti 2
-![Bukti 2](bukti2.jpg)
+![Bukti 2](IMG202604015121841.jpg)
 
 ---
 
