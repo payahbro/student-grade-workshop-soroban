@@ -1,4 +1,4 @@
-# Grade Log Smart Contract (Soroban + Stellar)
+# Grade Log Smart Contract
 
 Smart contract ini digunakan untuk mencatat **nilai mahasiswa** di blockchain Stellar menggunakan **Soroban**.  
 Kontrak menyediakan fitur **CRUD** (Create, Read, Update, Delete) untuk data nilai.
@@ -41,6 +41,16 @@ Data disimpan di storage instance dengan key:
 - [Rust](https://www.rust-lang.org/)
 - [Soroban SDK](https://soroban.stellar.org/docs)
 - [Stellar](https://stellar.org/) (Testnet)
+
+---
+
+## 📸 Bukti Deploy & Testing
+
+### Bukti 1
+![Bukti 1](./bukti1.png)
+
+### Bukti 2
+![Bukti 2](./bukti2.png)
 
 ---
 
